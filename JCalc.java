@@ -23,16 +23,4 @@ public class JCalc extends ConsoleProgram {
 	
 
 }
-/* method to evaluate Infix expression without calculator*/
 
-//public void run() {
-//println("Infix expression evaluator, enter expression of blank line to exit.");
-//while(true) {
-//	String you = readLine("expr:");
-//	if(you.equals(""))break;
-//	pf.parse(you, Qin);
-//	answer = pf.doExpression(Qin);
-//	println(you + " result = " + answer);
-//}
-//println("program terminated");
-//}
