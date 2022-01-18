@@ -1,6 +1,5 @@
 /*
  * author: Shaun Soobagrah
- * Id: 260919063
  */
 public class Queue {
 	
